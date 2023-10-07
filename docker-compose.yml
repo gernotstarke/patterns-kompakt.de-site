@@ -3,9 +3,9 @@
 version: '3'
 
 services:
-  gernotstarke-jekyll:
+  perstarke-jekyll:
     build: .
-    image: gernotstarke-site
+    image: patterns-kompakt-site
     command: jekyll serve --trace --host 0.0.0.0 --watch --config _config.yml
     environment:
       - JEKYLL_ENV=development

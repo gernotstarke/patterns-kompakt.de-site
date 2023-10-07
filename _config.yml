@@ -6,13 +6,13 @@ github: metadata
 
 # Site Settings
 locale          : "de"
-title           : "Basic Homepage"
+title           : "Patterns Kompakt"
 title_separator : "-"
 name            : ""
-description     : "Add description here"
+description     : "Entwurfsmuster für effektive Software-Entwicklung"
 url             : "https://basic-homepage.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl         : ""  # the subpath of your site, e.g. "/blog"
-repository      : "perstarke-webdev/basic_homepage" # GitHub username/repo-name
+repository      : "gernotstarke/patterns-kompakt.de-site" # GitHub username/repo-name
 teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs     : false # true, false (default)
 words_per_minute : 200
@@ -38,11 +38,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "First Last"
+  name             : "Gernot Starke, Karl Eilebrecht"
   avatar           :  /images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
-  location         : "City"
-  email            : examplemail@gmail.com
+  location         : "Cologne"
+  email            : gstarke@mailbox.org
   uri              :
   github           : 
   stack_overflow   :

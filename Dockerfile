@@ -1,8 +1,8 @@
 FROM jekyll/builder
 
 LABEL version="0.8.0"
-LABEL description="develop and generate gernotstarke.de "
-LABEL vendor="Gernot Starke"
+LABEL description="develop and generate patterns-kompakt site "
+LABEL vendor="Per Starke"
 
 COPY Gemfile .
 
