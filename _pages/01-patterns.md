@@ -1,7 +1,7 @@
 ---
-title: Patterns Kompakt
+title: Patterns
 layout: splash
-permalink: /
+permalink: /patterns
 header:
   overlay_image: /images/splash/webdev.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

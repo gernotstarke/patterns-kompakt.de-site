@@ -1,8 +1,11 @@
 # main links
 main:
-  - title: "Home"
+  - title: Home
     url: /
-  - title: "Impressum"
-    url: /imprint
-
+  - title: Patterns
+    url: /patterns
+  - title: Die Autoren
+    url: /authors
+  - title: Errata
+    url: /errata
 
