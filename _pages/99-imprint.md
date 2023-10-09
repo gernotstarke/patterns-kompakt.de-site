@@ -2,6 +2,8 @@
 layout: single
 title: Impressum und Datenschutz
 permalink: /imprint
+header:
+    overlay_image: /images/farb_header_patterns.png
 author_profile: false
 ---
 

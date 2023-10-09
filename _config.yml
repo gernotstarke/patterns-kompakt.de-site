@@ -2,6 +2,7 @@
 #
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "aqua"
 github: metadata
 
 # Site Settings
