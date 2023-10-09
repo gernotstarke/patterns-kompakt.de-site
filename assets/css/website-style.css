@@ -5,3 +5,7 @@ General Styles
 a.active {
     color: #244373 !important;
 }
+
+a.active:hover {
+    color: #1a3158 !important;
+}
