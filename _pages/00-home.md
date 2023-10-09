@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: /images/farb_header_patterns.png
-excerpt: "**Lorem Ipsum**"
+excerpt: "**Entwurfsmuster für effektive Software-Entwicklung**"
 ---
 
 # Willkommen bei Patterns kompakt!

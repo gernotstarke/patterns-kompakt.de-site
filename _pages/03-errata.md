@@ -4,7 +4,7 @@ layout: splash
 permalink: /errata
 header:
   overlay_image: /images/farb_header_patterns.png
-excerpt: "**Lorem Ipsum**"
+excerpt: "**Bekannte Fehler(chen)…**"
 ---
 
 Some text to fill the empty page
