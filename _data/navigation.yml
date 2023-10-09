@@ -206,16 +206,16 @@ persistenz:
   - title: "Persistenz"
     url: /patterns/persistenz
     children:
-      - title: "Wrapper"
-        url: /patterns/persistenz/wrapper
-      - title: "Gateway"
-        url: /patterns/persistenz/gateway
-      - title: "Plugin"
-        url: /patterns/persistenz/plugin
-      - title: "Mapper"
-        url: /patterns/persistenz/mapper
-      - title: "Dependency Injection"
-        url: /patterns/persistenz/dependencyinjection
+      - title: "Identity Map"
+        url: /patterns/persistenz/identitymap
+      - title: "Lazy Load"
+        url: /patterns/persistenz/lazyload
+      - title: "Coarse-Grained Lock"
+        url: /patterns/persistenz/coarsegrainedlock
+      - title: "Optimistic Offline Lock"
+        url: /patterns/persistenz/optimisticofflinelock
+      - title: "Pessimistic Offline Lock"
+        url: /patterns/persistenz/pessimisticofflinelock
   - title: "Datenbankschlüssel"
     url: /patterns/datenbankschluessel
   - title: "Sonstige Patterns"
@@ -241,7 +241,7 @@ datenbankschluessel:
       - title: "Identity Field"
         url: /patterns/datenbankschluessel/identityfield
       - title: "Sequence Block"
-        url: /patterns/datenbankschluessel/sequencyblock
+        url: /patterns/datenbankschluessel/sequenceblock
       - title: "UUID"
         url: /patterns/datenbankschluessel/uuid
       - title: "Hashwertschlüssel (MUHAI)"
