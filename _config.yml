@@ -174,7 +174,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single_post
       author_profile: false
       read_time: false
       comments: false
