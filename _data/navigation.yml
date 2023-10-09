@@ -2,11 +2,15 @@
 main:
   - title: Home
     url: /
+    id: home
   - title: Patterns
     url: /patterns
+    id: patterns
   - title: Die Autoren
+    id: authors
     url: /authors
   - title: Errata
+    id: errata
     url: /errata
 
 

@@ -12,7 +12,7 @@
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
             <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              <a id={{link.id}} href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
@@ -32,3 +32,26 @@
     </div>
   </div>
 </div>
+
+
+<script src="/assets/jquery/jquery-3.7.1-min.js"></script>
+<script>
+$(document).ready(function() {
+  var url = window.location.pathname;
+  var parts = url.split('/').filter(Boolean);
+
+  // Remove any existing "active" class
+  $('nav a').removeClass('active');
+
+  // Handle the home page separately
+  if (parts.length === 0 || parts[0] === "index.html" || parts[0] === "index") {
+    $('nav a[id="home"]').addClass('active');
+  } else {
+    var filename = parts[0];
+    $('nav a[id="' + filename + '"]').addClass('active');
+  }
+});
+</script>
+
+
+
