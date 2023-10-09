@@ -46,3 +46,36 @@ Buchcover und Text auf der Startseite
 
 
 
+/*
+Tabelle für Errata
+*/
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #244373; /* Dunkelblaue Trennlinie unter allen Zeilen */
+}
+
+th {
+  background-color: #c2dbf7; /* Bläuliche Hintergrundfarbe für Header-Zeilen */
+  color: #244373; /* Dunkelblaue Textfarbe für Header-Zeilen */
+  border-top: none; /* Entfernt die Linie über der Header-Zeile */
+  border-bottom: 2px solid #244373; /* Dunkelblaue Trennlinie unter Header-Zeilen */
+}
+
+/* Füge eine vertikale Linie zwischen "Seite" und "Korrektur" hinzu */
+th:nth-child(1),
+td:nth-child(1) {
+  border-right: 1px solid #244373; /* Dunkelblaue Trennlinie */
+}
+
+
+
+
+
+
