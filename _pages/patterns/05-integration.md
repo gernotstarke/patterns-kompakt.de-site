@@ -1,7 +1,7 @@
 ---
 title: Patterns
 layout: single
-permalink: /patterns
+permalink: /patterns/integration
 header:
   overlay_image: /images/splash/webdev.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -9,7 +9,7 @@ header:
 excerpt: "**Lorem Ipsum**"
 
 sidebar:
-  nav: patterns
+  nav: integration
 ---
 
 Some text to fill the empty page
