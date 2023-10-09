@@ -41,14 +41,14 @@ $(document).ready(function() {
   var parts = url.split('/').filter(Boolean);
 
   // Remove any existing "active" class
-  $('nav a').removeClass('active');
+  $('nav a').removeClass('active2');
 
   // Handle the home page separately
   if (parts.length === 0 || parts[0] === "index.html" || parts[0] === "index") {
-    $('nav a[id="home"]').addClass('active');
+    $('nav a[id="home"]').addClass('active2');
   } else {
     var filename = parts[0];
-    $('nav a[id="' + filename + '"]').addClass('active');
+    $('nav a[id="' + filename + '"]').addClass('active2');
   }
 });
 </script>

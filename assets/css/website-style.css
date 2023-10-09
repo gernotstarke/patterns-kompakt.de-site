@@ -2,10 +2,10 @@
 General Styles
 */
 
-a.active {
+a.active2 {
     color: #244373 !important;
 }
 
-a.active:hover {
+a.active2:hover {
     color: #1a3158 !important;
 }
