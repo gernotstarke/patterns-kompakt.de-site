@@ -9,3 +9,272 @@ main:
   - title: Errata
     url: /errata
 
+
+patterns:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+erzeugungsmuster:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+    children:
+      - title: "Abstract Factory"
+        url: /patterns/erzeugungsmuster/abstractfactory
+      - title: "Builder"
+        url: /patterns/erzeugungsmuster/builder
+      - title: "Factory Method"
+        url: /patterns/erzeugungsmuster/factorymethod
+      - title: "Singleton"
+        url: /patterns/erzeugungsmuster/singleton
+      - title: "Object Pool"
+        url: /patterns/erzeugungsmuster/objectpool
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+
+verhaltensmuster:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+    children:
+      - title: "Command"
+        url: /patterns/verhaltensmuster/command
+      - title: "Command Processor"
+        url: /patterns/verhaltensmuster/commandprocessor
+      - title: "Iterator"
+        url: /patterns/verhaltensmuster/iterator
+      - title: "Visitor"
+        url: /patterns/verhaltensmuster/visitor
+      - title: "Strategy"
+        url: /patterns/verhaltensmuster/strategy
+      - title: "Template method"
+        url: /patterns/verhaltensmuster/templatemethod
+      - title: "Observer"
+        url: /patterns/verhaltensmuster/observer
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+strukturmuster:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+    children:
+      - title: "Adapter"
+        url: /patterns/strukturmuster/adapter
+      - title: "Bridge"
+        url: /patterns/strukturmuster/bridge
+      - title: "Decorator"
+        url: /patterns/strukturmuster/decorator
+      - title: "Fassade"
+        url: /patterns/strukturmuster/fassade
+      - title: "Proxy"
+        url: /patterns/strukturmuster/proxy
+      - title: "Model View Controller"
+        url: /patterns/strukturmuster/modelviewcontroller
+      - title: "Flyweight"
+        url: /patterns/strukturmuster/flyweight
+      - title: "Composite"
+        url: /patterns/strukturmuster/composite
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+verteilung:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+    children:
+      - title: "Combined Method"
+        url: /patterns/verteilung/combinedmethod
+      - title: "Data Transfer Object"
+        url: /patterns/verteilung/datatransferobject
+      - title: "Transfer Object Assembler"
+        url: /patterns/verteilung/transferobjectassembler
+      - title: "Active Object"
+        url: /patterns/verteilung/activeobject
+      - title: "Master-Slave"
+        url: /patterns/verteilung/masterslave
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+
+integration:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+    children:
+      - title: "Wrapper"
+        url: /patterns/integration/wrapper
+      - title: "Gateway"
+        url: /patterns/integration/gateway
+      - title: "Plugin"
+        url: /patterns/integration/plugin
+      - title: "Mapper"
+        url: /patterns/integration/mapper
+      - title: "Dependency Injection"
+        url: /patterns/integration/dependencyinjection
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+
+persistenz:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+    children:
+      - title: "Wrapper"
+        url: /patterns/persistenz/wrapper
+      - title: "Gateway"
+        url: /patterns/persistenz/gateway
+      - title: "Plugin"
+        url: /patterns/persistenz/plugin
+      - title: "Mapper"
+        url: /patterns/persistenz/mapper
+      - title: "Dependency Injection"
+        url: /patterns/persistenz/dependencyinjection
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+datenbankschluessel:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+    children:
+      - title: "Identity Field"
+        url: /patterns/datenbankschluessel/identityfield
+      - title: "Sequence Block"
+        url: /patterns/datenbankschluessel/sequencyblock
+      - title: "UUID"
+        url: /patterns/datenbankschluessel/uuid
+      - title: "Hashwertschlüssel (MUHAI)"
+        url: /patterns/datenbankschluessel/hashwertschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+
+
+sonstige:
+  - title: "Erzeugungsmuster"
+    url: /patterns/erzeugungsmuster
+  - title: "Verhaltensmuster"
+    url: /patterns/verhaltensmuster
+  - title: "Strukturmuster"
+    url: /patterns/strukturmuster
+  - title: "Verteilung"
+    url: /patterns/verteilung
+  - title: "Integration"
+    url: /patterns/integration
+  - title: "Persistenz"
+    url: /patterns/persistenz
+  - title: "Datenbankschlüssel"
+    url: /patterns/datenbankschluessel
+  - title: "Sonstige Patterns"
+    url: /patterns/sonstige
+    children:
+      - title: "Money"
+        url: /patterns/sonstige/money
+      - title: "Null-Object"
+        url: /patterns/sonstige/nullobject
+      - title: "Registry"
+        url: /patterns/sonstige/registry
+      - title: "Service Stub"
+        url: /patterns/sonstige/servicestub
+      - title: "Value Object"
+        url: /patterns/sonstige/valueobject
