@@ -9,3 +9,40 @@ a.active2 {
 a.active2:hover {
     color: #1a3158 !important;
 }
+
+
+/*
+Buchcover und Text auf der Startseite
+*/
+
+.content {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.book-cover {
+  max-width: 200px;
+  height: auto;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.text {
+  flex: 1;
+}
+
+.text p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .book-cover {
+    max-width: 150px;
+  }
+}
+
+
+

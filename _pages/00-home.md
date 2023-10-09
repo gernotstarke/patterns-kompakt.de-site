@@ -9,15 +9,24 @@ excerpt: "**Lorem Ipsum**"
 
 # Willkommen bei Patterns kompakt!
 
-Das Buch [Patterns kompakt 5. Auflage (Springer Vieweg)](https://www.springer.com/de/book/9783662579367)
-fasst die wichtigsten Entwurfsmuster zusammen, die Sie für Software-Entwicklung benötigen. Software-Entwickler, -Architekten und -Designer finden darin effektiv anwendbare Lösungen für tägliche Entwurfsprobleme. Das Buch gliedert Patterns anhand einiger typischer Aspekte des Software-Entwurfs:
-* Basismuster für mehr Flexibilität und Wartbarkeit.
-* Kommunikation & Verteilung
-* Integration
-* Persistenz 
+<div class="content">
+  <div class="text">
+    <p>Das Buch <a href="https://www.springer.com/de/book/9783662579367">Patterns kompakt 5. Auflage (Springer Vieweg)</a> fasst die wichtigsten Entwurfsmuster zusammen, die Sie für Software-Entwicklung benötigen. Software-Entwickler:Innen, -Architekt:Innen und -Designer:Innen finden darin effektiv anwendbare Lösungen für tägliche Entwurfsprobleme. Das Buch gliedert Patterns anhand einiger typischer Aspekte des Software-Entwurfs:</p>
+    <ul>
+      <li>Basismuster für mehr Flexibilität und Wartbarkeit.</li>
+      <li>Kommunikation & Verteilung</li>
+      <li>Integration</li>
+      <li>Persistenz</li>
+    </ul>
+  </div>
+  <img src="/images/00_farbschema.jpeg" alt="Buchcover" class="book-cover">
+</div>
 
 
-**Patterns kompakt** richtet sich an Praktiker: Software-Entwickler, -Designer, -Architekten und alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.
+
+
+
+**Patterns kompakt** richtet sich an Praktiker: Software-Entwickler:Innen, -Architekt:Innen, -Designer:innen und alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.
 
 
 **Die fünfte Auflage:**  
