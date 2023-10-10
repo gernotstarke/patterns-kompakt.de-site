@@ -4,6 +4,7 @@ layout: single
 permalink: /patterns/erzeugungsmuster
 header:
   overlay_image: /images/farb_header_patterns.png
+
 excerpt: "**Erzeugungsmuster**"
 
 sidebar:
