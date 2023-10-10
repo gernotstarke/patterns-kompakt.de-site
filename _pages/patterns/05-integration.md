@@ -4,10 +4,34 @@ layout: single
 permalink: /patterns/integration
 header:
   overlay_image: /images/farb_header_patterns.png
-excerpt: "**Lorem Ipsum**"
+excerpt: "**Integration**"
 
 sidebar:
   nav: integration
 ---
 
-Some text to fill the empty page
+### [Wrapper](wrapper)
+Ein Wrapper kapselt Funktionalität und Daten bestehender (nicht objektorientierter) Systeme in portablen und wartbaren Schnittstellen.
+
+> siehe: GitHub, GOF, PK
+
+### [Gateway](gateway)
+Ein Gateway gleicht Differenzen zwischen verschiedenen Repräsentationen von Objekten aus oder schafft einen Zugang zu einem anderen System.
+
+> siehe: GitHub, PEAA, PK
+
+### [Plugin](plugin)
+Klassen werden erst durch die Konfiguration in ein System eingebunden und nicht bereits zum Übersetzungszeitpunkt, um Erweiterbarkeit und Anpassungsfähigkeit zu erhöhen.
+
+> siehe: GitHub, PEAA, PK
+
+### [Mapper](mapper)
+Ein Mapper bewegt Daten zwischen zwei Komponenten und hält sie dabei sowohl unabhängig voneinander als auch von sich selbst.
+
+> siehe: GitHub, PEAA, PK
+
+### [Dependency Injection](dependencyinjection)
+Es soll eine Entkopplung von nutzenden Komponenten und konfigurierten Diensten erreicht werden, bei der die Komponenten weder wissen müssen, wie die Dienste heißen, noch wie sie zu beschaffen sind.
+
+> siehe: GitHub, DI, PK
+
