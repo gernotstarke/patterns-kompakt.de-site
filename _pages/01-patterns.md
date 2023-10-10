@@ -28,13 +28,13 @@ Viel Erfolg und vor allem Spaß bei Ihrer Arbeit!
 
 Neben der Möglichkeit, sich die API der Klassen mit verlinktem Source-Code online anzuschauen, können Sie das Projekt mit den Codebeispielen hier herunterladen:
 
-Download pk-examples.zip  
+[Download pk-examples.zip](/downloads/pk-examples.zip)  
 
 *Ältere Versionen*:
 
-* Download pk-examples_j6.zip (2012, JDK 6)
-* Download pk-examples_j7.zip (2014, JDK 7)
-* Download pk-examples_j11.zip (2019, JDK 11) 
+* [Download pk-examples_j6.zip](/downloads/pk-examples_j6.zip) (2012, JDK 6)
+* [Download pk-examples_j7.zip](/downloads/pk-examples_j7.zip) (2014, JDK 7)
+* [Download pk-examples_j11.zip](/downloads/pk-examples_j11.zip) (2019, JDK 11) 
 
 
 Es hat sich zum Standard entwickelt, viele Basisfunktionaliäten mit Bibliotheken abzudecken, die als externe Dependencies deklariert und aus Repositories geladen werden.
