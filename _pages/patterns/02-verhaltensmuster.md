@@ -14,35 +14,35 @@ sidebar:
 ### [Command](command)
 Command kapselt einen Befehl als ein Objekt.
 
-> siehe: github(), GOF, PK
+> siehe: GitHub, GOF, PK
 
 ### [Command Processor](commandprocessor)
 Command Processor trennt Ausführung und Management von Command-Objekten.
 
-> siehe: github(), POSA, PK
+> siehe: GitHub, POSA, PK
 
 ### [Iterator](iterator)
 Iterator erlaubt den sequenziellen Zugriff eines Clients auf die Elemente einer Aggregation, ohne deren internen Aufbau zu kennen.
 
-> siehe: github(), GOF, PK
+> siehe: GitHub, GOF, PK
 
 ### [Visitor](visitor)
 Visitor ermöglicht es, neue Operationen auf den Elementen einer Struktur zu definieren, ohne die Elemente selbst anzupassen.
 
-> siehe: github(), GOF, STEMA, PK
+> siehe: GitHub, GOF, STEMA, PK
 
 ### [Strategy](strategy)
 Strategy kapselt einen Algorithmus in einer Klasse.
 
-> siehe: github(), GOF, PK
+> siehe: GitHub, GOF, PK
 
 ### [Template Method](templatemethod)
 Template Method definiert die Struktur eines Algorithmus, wobei einzelne konkrete Schritte in Unterklassen verlagert werden. Das Muster erlaubt es, bestimmte Operationen eines Algorithmus zu überschreiben, ohne des Struktur zu ändern.
 
-> siehe: github(), GOF, PK
+> siehe: GitHub, GOF, PK
 
 ### [Observer](observer)
 Observer ermöglicht einem oder mehreren Objekten, automatisch auf die Zustandsänderungen eines bestimmten Objekts zu reagieren, um den eigenen Zustand anzupassen.
 
-> siehe: github(), GOF, STEMA, PK
+> siehe: GitHub, GOF, STEMA, PK
 
