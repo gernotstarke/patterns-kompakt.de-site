@@ -39,6 +39,10 @@ hr.orange-hr {
     font-style: italic;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 /*
 Book cover and text, for index and literature pages
 */
