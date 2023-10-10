@@ -28,9 +28,19 @@ a.active2:hover {
     color: #1a3158 !important;
 }
 
+hr.orange-hr {
+    border: none; /* Entferne die Standardlinie */
+    height: 1px; /* Höhe der Linie */
+    background-image: linear-gradient(to right, #CCCCCC 0%, #FF8C40 50%, #CCCCCC 100%);
+    background-size: 100% 1px; /* Breite und Höhe des Farbverlaufs */
+}
+
+.italic {
+    font-style: italic;
+}
 
 /*
-Buchcover und Text auf der Startseite
+Book cover and text, for index and literature pages
 */
 
 .content {
@@ -65,7 +75,7 @@ Buchcover und Text auf der Startseite
 
 
 /*
-Tabelle für Errata
+Table for errata
 */
 
 table {
@@ -76,23 +86,52 @@ table {
 th, td {
   padding: 8px;
   text-align: left;
-  border-bottom: 1px solid #244373; /* Dunkelblaue Trennlinie unter allen Zeilen */
+  border-bottom: 1px solid #244373;
 }
 
 th {
-  background-color: #c2dbf7; /* Bläuliche Hintergrundfarbe für Header-Zeilen */
-  color: #244373; /* Dunkelblaue Textfarbe für Header-Zeilen */
-  border-top: none; /* Entfernt die Linie über der Header-Zeile */
-  border-bottom: 2px solid #244373; /* Dunkelblaue Trennlinie unter Header-Zeilen */
+  background-color: #c2dbf7;
+  color: #244373;
+  border-top: none;
+  border-bottom: 2px solid #244373;
 }
 
-/* Füge eine vertikale Linie zwischen "Seite" und "Korrektur" hinzu */
 th:nth-child(1),
 td:nth-child(1) {
-  border-right: 1px solid #244373; /* Dunkelblaue Trennlinie */
+  border-right: 1px solid #244373;
 }
 
 
+
+
+/*
+Button
+*/
+
+.btn-custom {
+    display: inline-block;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #F0750B;
+    border: 1px solid #d86909;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 14px;
+    line-height: 1.5;
+    transition: background-color 0.1s ease-in-out, border-color 0.1s ease-in-out;
+}
+
+.btn-custom:hover {
+    background-color: #E16300;
+    border-color: #B94A00;
+}
+
+
+.btn-link {
+  display: inline-block;
+}
 
 
 

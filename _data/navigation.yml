@@ -9,6 +9,9 @@ main:
   - title: Die Autoren
     id: authors
     url: /authors
+  - title: Literatur
+    id: literature
+    url: /literature
   - title: Errata
     id: errata
     url: /errata
