@@ -13,7 +13,7 @@ sidebar:
 ### [Identity Field](identityfield)
 Eine Schlüsselklasse fasst die Spalten eines Datenbankschlüssels in einem Objekt zusammen. Damit wird die Identität zwischen Laufzeitobjekten (in-memory objects) und Datensätzen sichergestellt.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/identityfield/README.md), PEAA, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/identityfield/README.md), [PEAA](/literature#peaa), [PK](/literature#pk)
 
 ### [Sequence Block](sequenceblock)
 Sequenzblock erzeugt auf performante und portable Weise Primärschlüssel für persistente Objekte.
