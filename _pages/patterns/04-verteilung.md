@@ -18,12 +18,12 @@ Mehrere Methodenaufrufe werden in einer neuen Methode des Komponenteninterfaces 
 ### [Data Transfer Object](datatransferobject)
 Data Transfer Object (DTO) fasst in einer verteilten Umgebung (z. B. JEE) zu übertragende Daten in einem neuen Objekt zusammen, um die Anzahl der entfernten Methodenaufrufe zu reduzieren und somit das Netzwerk zu entlasten.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/datatransferobject/README.md), J2EE, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/datatransferobject/README.md), [J2EE](/literature#j2ee), [PK](/literature#pk)
 
 ### [Transfer Object Assembler](transferobjectassembler)
 Transferobjekte, die Daten mehrerer Geschäftsobjekte beinhalten, werden serverseitig von einem Assembler zusammengestellt, um die Schnittstelle zum Client zu vereinfachen und die Performance zu erhöhen.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/transferobjectassembler/README.md), J2EE, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/transferobjectassembler/README.md), [J2EE](/literature#j2ee), [PK](/literature#pk)
 
 ### [Active Object](activeobject)
 Active Object entkoppelt einen Methodenaufruf von der Methodenausführung. Client und Komponente werden in unterschiedlichen Threads ausgeführt und interagieren asynchron.
