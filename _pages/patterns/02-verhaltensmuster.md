@@ -19,7 +19,7 @@ Command kapselt einen Befehl als ein Objekt.
 ### [Command Processor](commandprocessor)
 Command Processor trennt Ausführung und Management von Command-Objekten.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/commandprocessor/README.md), POSA, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/commandprocessor/README.md), [POSA](/literature#posa), [PK](/literature#pk)
 
 ### [Iterator](iterator)
 Iterator erlaubt den sequenziellen Zugriff eines Clients auf die Elemente einer Aggregation, ohne deren internen Aufbau zu kennen.
