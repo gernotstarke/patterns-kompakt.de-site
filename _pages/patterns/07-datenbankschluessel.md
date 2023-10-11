@@ -18,12 +18,12 @@ Eine Schlüsselklasse fasst die Spalten eines Datenbankschlüssels in einem Obje
 ### [Sequence Block](sequenceblock)
 Sequenzblock erzeugt auf performante und portable Weise Primärschlüssel für persistente Objekte.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/sequenceblock/README.md), MARINESCU, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/sequenceblock/README.md), [MARINESCU](/literature#marinescu), [PK](/literature#pk)
 
 ### [UUID](uuid)
 UUID (aka GUID) erzeugt einen (nahezu garantiert) universell eindeutigen Schlüssel.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/uuid/README.md), MARINESCU, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/uuid/README.md), [MARINESCU](/literature#marinescu), [PK](/literature#pk)
 
 ### [Hashwertschlüssel (MUHAI)](hashwertschluessel)
 MUHAI (Mostly Unique Hashed Attributes Identifier) erzeugt einen nahezu eindeutigen Schlüssel durch das Hashen eines oder mehrerer Datensatzattribute.
