@@ -14,35 +14,35 @@ sidebar:
 ### [Command](command)
 Command kapselt einen Befehl als ein Objekt.
 
-> siehe: GitHub, GOF, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/command/README.md), GOF, PK
 
 ### [Command Processor](commandprocessor)
 Command Processor trennt Ausführung und Management von Command-Objekten.
 
-> siehe: GitHub, POSA, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/commandprocessor/README.md), POSA, PK
 
 ### [Iterator](iterator)
 Iterator erlaubt den sequenziellen Zugriff eines Clients auf die Elemente einer Aggregation, ohne deren internen Aufbau zu kennen.
 
-> siehe: GitHub, GOF, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/iterator/README.md), GOF, PK
 
 ### [Visitor](visitor)
 Visitor ermöglicht es, neue Operationen auf den Elementen einer Struktur zu definieren, ohne die Elemente selbst anzupassen.
 
-> siehe: GitHub, GOF, STEMA, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/visitor/README.md), GOF, STEMA, PK
 
 ### [Strategy](strategy)
 Strategy kapselt einen Algorithmus in einer Klasse.
 
-> siehe: GitHub, GOF, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/strategy/README.md), GOF, PK
 
 ### [Template Method](templatemethod)
 Template Method definiert die Struktur eines Algorithmus, wobei einzelne konkrete Schritte in Unterklassen verlagert werden. Das Muster erlaubt es, bestimmte Operationen eines Algorithmus zu überschreiben, ohne des Struktur zu ändern.
 
-> siehe: GitHub, GOF, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/templatemethod/README.md), GOF, PK
 
 ### [Observer](observer)
 Observer ermöglicht einem oder mehreren Objekten, automatisch auf die Zustandsänderungen eines bestimmten Objekts zu reagieren, um den eigenen Zustand anzupassen.
 
-> siehe: GitHub, GOF, STEMA, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/observer/README.md), GOF, STEMA, PK
 
