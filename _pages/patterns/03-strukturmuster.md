@@ -34,7 +34,7 @@ Fassade vereinfacht den Zugriff auf ein komplexes Subsystem oder auf eine Menge 
 ### [Proxy](proxy)
 Proxy stellt einen Platzhalter für eine andere Komponente (Objekt) dar und kontrolliert den Zugang zum echten Objekt.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/proxy/README.md), [GOF](/literature#gof), UNCLEBOB, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/proxy/README.md), [GOF](/literature#gof), [UNCLEBOB](/literature#unclebob), [PK](/literature#pk)
 
 ### [Model View Controller](modelviewcontroller)
 Die Verantwortlichkeiten beim Aufbau von Benutzerschnittstellen werden auf drei verschiedene Rollen verteilt, um die unterschiedliche Präsentation derselben Information zu erleichtern.

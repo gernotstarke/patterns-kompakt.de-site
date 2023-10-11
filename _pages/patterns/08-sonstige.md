@@ -18,7 +18,7 @@ Ein Money-Objekt repräsentiert einen Geldbetrag.
 ### [Null-Object](nullobject)
 Es wird eine Klasse definiert, die "nichts" tut - wobei das "Nichts" fachlich ist.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/nullobject/README.md), UNCLEBOB, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/nullobject/README.md), [UNCLEBOB](/literature#unclebob), [PK](/literature#pk)
 
 ### [Registry](registry)
 Eine Registry ist ein "bekanntes" Objekt, das beim Auffinden allgemeiner Dienste oder Objekte hilft.
