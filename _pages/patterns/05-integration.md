@@ -13,7 +13,7 @@ sidebar:
 ### [Wrapper](wrapper)
 Ein Wrapper kapselt Funktionalität und Daten bestehender (nicht objektorientierter) Systeme in portablen und wartbaren Schnittstellen.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/wrapper/README.md), GOF, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/wrapper/README.md), [GOF](/literature#gof), PK
 
 ### [Gateway](gateway)
 Ein Gateway gleicht Differenzen zwischen verschiedenen Repräsentationen von Objekten aus oder schafft einen Zugang zu einem anderen System.
