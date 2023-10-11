@@ -29,7 +29,7 @@ Iterator erlaubt den sequenziellen Zugriff eines Clients auf die Elemente einer 
 ### [Visitor](visitor)
 Visitor ermöglicht es, neue Operationen auf den Elementen einer Struktur zu definieren, ohne die Elemente selbst anzupassen.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/visitor/README.md), [GOF](/literature#gof), STEMA, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/visitor/README.md), [GOF](/literature#gof), [STEMA](/literature#stema), PK
 
 ### [Strategy](strategy)
 Strategy kapselt einen Algorithmus in einer Klasse.
@@ -44,5 +44,5 @@ Template Method definiert die Struktur eines Algorithmus, wobei einzelne konkret
 ### [Observer](observer)
 Observer ermöglicht einem oder mehreren Objekten, automatisch auf die Zustandsänderungen eines bestimmten Objekts zu reagieren, um den eigenen Zustand anzupassen.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/observer/README.md), [GOF](/literature#gof), STEMA, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/observer/README.md), [GOF](/literature#gof), [STEMA](/literature#stema), PK
 

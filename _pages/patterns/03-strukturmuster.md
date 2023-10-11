@@ -39,12 +39,12 @@ Proxy stellt einen Platzhalter für eine andere Komponente (Objekt) dar und kont
 ### [Model View Controller](modelviewcontroller)
 Die Verantwortlichkeiten beim Aufbau von Benutzerschnittstellen werden auf drei verschiedene Rollen verteilt, um die unterschiedliche Präsentation derselben Information zu erleichtern.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/modelviewcontroller/README.md), STEMA, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/modelviewcontroller/README.md), [STEMA](/literature#stema), PK
 
 ### [Flyweight](flyweight)
 Um in einem System eine sehr große Anzahl feingranularer Objekte zu verwalten, wird die gemeinsame Nutzung von Instanzen (instance sharing) eingeführt.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/flyweight/README.md), [GOF](/literature#gof), STEMA, PK
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/flyweight/README.md), [GOF](/literature#gof), [STEMA](/literature#stema), PK
 
 ### [Composite](composite)
 Composite ermöglicht die Gleichbehandlung von Einzelelementen und Elementgruppierungen in einer verschachtelten Struktur (z.B. Baum), sodass aus Sicht des Clients keine explizite Unterscheidung notwendig ist.
