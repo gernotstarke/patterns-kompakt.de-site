@@ -34,5 +34,5 @@ Singleton stellt sicher, dass nur genau eine Instanz einer Klasse erzeugt wird.
 ### [Object Pool](objectpool)
 Es wird die Wiederverwendung von Objektinstanzen ermöglicht, deren Erzeugung sehr teuer ist oder deren Anzahl beschränkt werden soll.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/objectpool/README.md), SHTR, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/objectpool/README.md), [SHTR](/literature#shtr), [PK](/literature#pk)
 

@@ -19,7 +19,7 @@ Adapter passt die Schnittstelle einer Klasse an eine von Clients erwartete Schni
 ### [Bridge](bridge)
 Bridge entkoppelt eine Abstraktion von ihrer Implementierung, sodass beide unabhängig voneinander verändert werden können. änderungen verschiedener Aspekte eines Systems werden voneinander unabhängig.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/bridge/README.md), [GOF](/literature#gof), SHTR, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/bridge/README.md), [GOF](/literature#gof), [SHTR](/literature#shtr), [PK](/literature#pk)
 
 ### [Decorator](decorator)
 Decorator fügt einer Komponente dynamisch neue Funktionalität hinzu, ohne die Komponente selbst zu ändern.
