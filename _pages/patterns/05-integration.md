@@ -33,5 +33,5 @@ Ein Mapper bewegt Daten zwischen zwei Komponenten und hält sie dabei sowohl una
 ### [Dependency Injection](dependencyinjection)
 Es soll eine Entkopplung von nutzenden Komponenten und konfigurierten Diensten erreicht werden, bei der die Komponenten weder wissen müssen, wie die Dienste heißen, noch wie sie zu beschaffen sind.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/dependencyinjection/README.md), DI, [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/dependencyinjection/README.md), [DI](/literature#di), [PK](/literature#pk)
 
