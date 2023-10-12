@@ -20,11 +20,11 @@ Doppelte müssen vermieden werden. Eine Tabelle mit allen bereits vergebenen Zah
 
 ![](/images/patterns/decorator/decorator_cx.png)
 
-Zur Verfügung steht nur eine einfache Sequenz. Ein ShufflingSequenceDecorator wird quasi darüber gestülpt und stellt eine geeignet verwürfelte Zahl bereit.
+Zur Verfügung steht nur eine einfache Sequenz. Ein *ShufflingSequenceDecorator* wird quasi darüber gestülpt und stellt eine geeignet verwürfelte Zahl bereit.
 
 ![](/images/patterns/decorator/decorator_dx.png)
 
-Für die bijektive Abbildung nutzt der Decorator intern die Kugel der Verwirrung (OrbOfConfusion).
+Für die bijektive Abbildung nutzt der Decorator intern die *Kugel der Verwirrung (OrbOfConfusion)*.
 
 ![](/images/patterns/decorator/decorator_orb_of_confusion.png)
 
