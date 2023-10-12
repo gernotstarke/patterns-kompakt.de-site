@@ -10,7 +10,7 @@ sidebar:
   nav: patterns
 ---
 
-Hier möchten wir unseren Lesern weitere Diagramme, Beispielszenarien und [Codebeispiele](#codebeispiele) zur Verfügung stellen, für die im Buch kein Raum ist.
+Hier möchten wir unseren Leser:Innen weitere Diagramme, Beispielszenarien und [Codebeispiele](#codebeispiele) zur Verfügung stellen, für die im Buch kein Raum ist.
 
 Das Material ist nach dem Motto *einsteigen und losfahren* aufgebaut. Nur selten gibt es Abhängigkeiten zwischen den Beispielen, so dass Sie sich auf ein Pattern konzentrieren können.
 Ganz bewusst haben wir jeweils ein anderes Szenario als im Buch gewählt.
@@ -60,9 +60,13 @@ The git-repository (and thus the English markdown documentation) can be found [o
 
 
 
+<div class="pattern-wette" markdown="1">
+
 ## Das Letzte
 Kennen Sie die *Pattern-Wette des Teufels*?
 Die Legende besagt, dass der Teufel (bildet sich 666 Stunden pro Tag weiter) irgendwann feststellte, dass es bei Entwurfsmustern viele Details zu beachten gibt. *"Details klingt gut"*, grinste er, *"da stecke ich drin!"*
 Seitdem erscheint er vielen Entwicklern im Traum *"Wetten, dass Du es nicht schaffst, das folgende Pattern in Deinem aktuellen Projekt einzusetzen? Falls doch, sollst Du berühmt werden, anderfalls wird das Projekt mein sein!"*  
 
 Diese Wette gewinnt fast immer der Teufel - *so oder so ...*
+
+</div>

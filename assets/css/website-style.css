@@ -146,5 +146,19 @@ Button
 }
 
 
+/*
+Pattern-Wette Box
+*/
+
+.pattern-wette {
+    font-size: 80%;
+    border: 1.5px solid red;
+    background-color: rgba(255, 0, 0, 0.075);
+    padding: 0 30px;
+    border-radius: 5px;
+}
+
+
+
 
 
