@@ -52,7 +52,7 @@ Wir haben außerdem [SonarLint](https://www.sonarsource.com/products/sonarlint/)
 
 
 
-<i class="fa-solid fa-globe orange-text fa-xl"></i>  
+<i class="fas fa-globe orange-text" style="font-size: 150%;"></i>  
 Documentation on this page is in German. However, I have documented each demonstrated pattern as well in English language using [Markdown](https://docs.github.com/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 All comments in the source code are anyway in English language.
 
