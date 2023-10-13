@@ -13,7 +13,7 @@ title           : "Patterns Kompakt"
 title_separator : "-"
 name            : ""
 description     : "Entwurfsmuster für effektive Software-Entwicklung"
-url             : "https://basic-homepage.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url             : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl         : ""  # the subpath of your site, e.g. "/blog"
 repository      : "gernotstarke/patterns-kompakt.de-site" # GitHub username/repo-name
 teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
