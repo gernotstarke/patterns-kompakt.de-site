@@ -19,7 +19,7 @@ excerpt: "**Entwurfsmuster für effektive Software-Entwicklung**"
       <li>Persistenz</li>
     </ul>
   </div>
-  <img src="/images/00_farbschema.jpeg" alt="Patterns Kompakt Buchcover" class="book-cover">
+  <img src="/images/pk_cover.webp" alt="Patterns Kompakt Buchcover" class="book-cover">
 </div>
 
 
