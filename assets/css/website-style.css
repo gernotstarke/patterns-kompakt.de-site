@@ -79,10 +79,20 @@ Book cover and text, for index and literature pages
 }
 
 @media (max-width: 768px) {
+  .content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
   .book-cover {
     max-width: 150px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
+    order: -1;
   }
 }
+
 
 
 
