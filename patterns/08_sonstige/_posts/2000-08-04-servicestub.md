@@ -5,6 +5,9 @@ sidebar:
     nav: sonstige
 ---
 
+Ein Service Stub, auch bekannt als "Mock Object", stellt eine (Dummy-)Implementierung eines problematischen Services bereit.
+
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/servicestub/README.md), [PEAA](/literature#peaa), [PK](/literature#pk)
 
 ### Klassendiagramm
 
