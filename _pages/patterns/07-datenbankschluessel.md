@@ -16,7 +16,7 @@ Eine Schlüsselklasse fasst die Spalten eines Datenbankschlüssels in einem Obje
 > siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/identityfield/README.md), [PEAA](/literature#peaa), [PK](/literature#pk)
 
 ### [Sequence Block](/patterns/datenbankschluessel/sequenceblock)
-Sequenzblock erzeugt auf performante und portable Weise Primärschlüssel für persistente Objekte.
+Ein Sequenzblock erzeugt auf performante und portable Weise Primärschlüssel für persistente Objekte.
 
 > siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/sequenceblock/README.md), [MARINESCU](/literature#marinescu), [PK](/literature#pk)
 
