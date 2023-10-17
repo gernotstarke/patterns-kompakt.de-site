@@ -21,7 +21,7 @@ Es wird ein Objekt geliefert, das noch nicht alle benötigten Daten enthält, ab
 > siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/lazyload/README.md), [PEAA](/literature#peaa), [PK](/literature#pk)
 
 ### [Coarse-Grained Lock](/patterns/persistenz/coarsegrainedlock)
-Es wird eine einzige Sperre für eine Menge von Objekten gesetzt, um diese gemeinsam zu Sperren.
+Es wird eine einzige Sperre für eine Menge von Objekten gesetzt, um diese gemeinsam zu sperren.
 
 > siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/coarsegrainedlock/README.md), [PEAA](/literature#peaa), [PK](/literature#pk)
 
