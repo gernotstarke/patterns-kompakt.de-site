@@ -26,7 +26,7 @@ excerpt: "**Entwurfsmuster für effektive Software-Entwicklung**"
 
 
 
-**Patterns kompakt** richtet sich an Praktiker: Software-Entwickler:Innen, -Architekt:Innen, -Designer:innen und alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.
+**Patterns kompakt** richtet sich an Praktiker:Innen: Software-Entwickler:Innen, -Architekt:Innen, -Designer:innen und alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.
 
 
 **Die fünfte Auflage:**  
