@@ -3,7 +3,7 @@ title: Patterns
 layout: single
 permalink: /patterns/erzeugungsmuster
 header:
-  overlay_image: /images/farb_header_patterns.png
+  overlay_image: /images/pk_header.webp
 
 excerpt: "**Erzeugungsmuster**"
 
@@ -11,7 +11,7 @@ sidebar:
   nav: erzeugungsmuster
 ---
 
-### [Abstract Factory](abstractfactory)
+### [Abstract Factory](/patterns/erzeugungsmuster/abstractfactory)
 Es wird eine Schnittstelle bereitgestellt, um Familien verbundener oder abhängiger Objekte zu erstellen, ohne die konkreten Klassen zu spezifizieren.
 
 > siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/abstractfactory/README.md), [GOF](/literature#gof), [STEMA](/literature#stema), [PK](/literature#pk)

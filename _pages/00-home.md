@@ -3,7 +3,7 @@ title: Patterns Kompakt
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/farb_header_patterns.png
+  overlay_image: /images/pk_header.webp
 excerpt: "**Entwurfsmuster für effektive Software-Entwicklung**"
 ---
 

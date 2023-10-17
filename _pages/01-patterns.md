@@ -3,7 +3,7 @@ title: Patterns
 layout: single
 permalink: /patterns
 header:
-  overlay_image: /images/farb_header_patterns.png
+  overlay_image: /images/pk_header.webp
 excerpt: "**Online-Material zu Patterns kompakt**"
 
 sidebar:

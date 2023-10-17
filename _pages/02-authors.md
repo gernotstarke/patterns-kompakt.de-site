@@ -3,7 +3,7 @@ title: Die Autoren
 layout: splash
 permalink: /authors
 header:
-  overlay_image: /images/farb_header_patterns.png
+  overlay_image: /images/pk_header.webp
 ---
 
 <p><img src="/images/karlundgernot.webp" alt="Gernot Starke und Karl Eilebrecht" /></p>

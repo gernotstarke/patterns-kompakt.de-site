@@ -28,7 +28,7 @@
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
           {% if page.title == "Patterns Kompakt" %}
-        <span class="orange">Patterns </span><span class="blue">&nbsp;Kompakt</span>
+        <span class="orange">&nbsp;Patterns Kompakt&nbsp;</span>
           {% else %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}

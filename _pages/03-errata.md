@@ -3,7 +3,7 @@ title: Errata
 layout: splash
 permalink: /errata
 header:
-  overlay_image: /images/farb_header_patterns.png
+  overlay_image: /images/pk_header.webp
 excerpt: "**Bekannte Fehler(chen)…**"
 ---
 
