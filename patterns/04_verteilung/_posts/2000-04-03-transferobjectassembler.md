@@ -27,6 +27,7 @@ Der *GeoBadPayerInfoDtoAssembler* stellt die erforderlichen Daten vor der Übert
 Der Client bekommt konzentrierte Daten in Form von *GeoBadPayerInfoDtos*.
 
 Um das Zusammenspiel im Detail beobachten zu können, setzen Sie den log-level auf DEBUG in der logback.xml und führen den zugehörigen TestCase aus.
+
 #### Ressourcen
 
 > * [Quellcode (Projekt zum Download)](/patterns#codebeispiele)
