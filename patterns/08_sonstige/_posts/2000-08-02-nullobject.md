@@ -27,8 +27,6 @@ Stattdessen erhält der Client ein *HostNameDataNullObject*, mit dem er normal a
 
 Um das Zusammenspiel im Detail beobachten zu können, setzen Sie den log-level auf DEBUG in der logback.xml und führen den zugehörigen TestCase aus.
 
-
-
 #### Ressourcen
 
 > * [Quellcode (Projekt zum Download)](/patterns#codebeispiele)
