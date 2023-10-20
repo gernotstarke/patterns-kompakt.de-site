@@ -28,7 +28,6 @@
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
           {% if page.title == "Patterns Kompakt" %}
-        <!--<span class="orange">&nbsp;Patterns Kompakt&nbsp;</span> -->
         <span class="orange patternskompakt"><img class="patternskompakt" src="/images/texts/patterns_kompakt_einzeilig_weiß.svg"></span>
           {% else %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
@@ -38,7 +37,11 @@
       {% if page.tagline %}
         <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
+      {% if page.title == "Patterns Kompakt" %}
+      <img class="patternskompakt" src="/images/texts/slogan_zweizeilig_weiß.svg">
+      {% else %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% endif %}
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.cta_url %}
