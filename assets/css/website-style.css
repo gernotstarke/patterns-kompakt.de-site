@@ -51,6 +51,24 @@ hr.orange-hr {
     font-weight: bold;
 }
 
+
+
+/*
+Images
+*/
+
+figure.onecol {
+  display: flex;
+  flex-direction: column; /* Ändert die Anordnung auf eine Spalte */
+  align-items: flex-start; /* Linksbündig ausrichten */
+  text-align: center; /* Zentriert den Text horizontal */
+}
+
+img.max350 {
+    max-width: 350px;
+}
+
+
 /*
 Book cover and text, for index and literature pages
 */
