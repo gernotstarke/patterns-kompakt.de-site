@@ -36,3 +36,6 @@ Unter [Patterns](/patterns) finden Sie weitere Illustrationen und Codebeispiele 
 
 ### Errata
 Immer, wenn wir oder besser unsere Leser den Fehlerteufel erfolgreich enttarnen konnten, finden Sie Hinweise [in den Errata](/errata).
+
+### Die Historie des Buches
+Patterns Kompakt geht nun schon in die sechste Auflage - da wurde es höchste Zeit, den alten Auflagen eine [History-Seite](/history) zu widmen!

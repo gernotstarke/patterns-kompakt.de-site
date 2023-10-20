@@ -68,6 +68,11 @@ img.max350 {
     max-width: 350px;
 }
 
+img.tl {
+    width: 250px;
+    max-width: 50vw;
+}
+
 
 /*
 SVG-texts for header
