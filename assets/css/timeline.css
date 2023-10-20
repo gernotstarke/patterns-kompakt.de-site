@@ -126,3 +126,83 @@
   left: 0%;
   }
 }
+
+
+
+/*
+special buttons for each auflage
+*/
+
+.btn-base {
+    display: inline-block;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    padding: 8px 16px;
+    font-size: 14px;
+    line-height: 1.5;
+    transition: background-color 0.1s ease-in-out, border-color 0.1s ease-in-out;
+}
+
+
+/* "Auflage 1" */
+.btn-base.auflage-1 {
+    background-color: #2B4893;
+    border-color: #2B366E;
+}
+
+.btn-base.auflage-1:hover {
+    background-color: #21416D;
+    border-color: #1A355F;
+}
+
+/* "Auflage 2" */
+.btn-base.auflage-2 {
+    color: #244373;
+    background-color: #E7C882;
+    border-color: #D7B26D;
+}
+
+.btn-base.auflage-2:hover {
+    background-color: #D9B972;
+    border-color: #CBA161;
+}
+
+/* "Auflage 3" */
+.btn-base.auflage-3 {
+    color: #244373;
+    background-color: #AFC153;
+    border-color: #A0A83B;
+}
+
+.btn-base.auflage-3:hover {
+    background-color: #9DBB46;
+    border-color: #8BAE3A;
+}
+
+/* "Auflage 4" */
+.btn-base.auflage-4 {
+    color: #244373;
+    background-color: #ABCEEC;
+    border-color: #96A6D3;
+}
+
+.btn-base.auflage-4:hover {
+    background-color: #97B7D9;
+    border-color: #83AAC7;
+}
+
+/* "Auflage 5" */
+.btn-base.auflage-5 {
+    color: #244373;
+    background-color: #F1B176;
+    border-color: #E19C55;
+}
+
+.btn-base.auflage-5:hover {
+    background-color: #E3A267;
+    border-color: #D4955A;
+}
