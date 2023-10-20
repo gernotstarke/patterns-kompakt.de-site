@@ -111,9 +111,9 @@
   /* Make sure that all arrows are pointing leftwards */
   .container::before {
   left: 60px;
-  border: medium solid white;
+  border: medium solid #244373;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #F6E7B6 transparent transparent;
+  border-color: transparent #244373 transparent transparent;
   }
 
   /* Make sure all circles are at the same spot */
