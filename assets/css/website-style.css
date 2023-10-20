@@ -70,6 +70,30 @@ img.max350 {
 
 
 /*
+SVG-texts for header
+*/
+
+.patternskompakt {
+    padding: 10px 10px 12px 10px;;
+}
+
+
+img.patternskompakt {
+    width: 30vw;
+    max-width: 450px;
+    min-width: 250px;
+}
+
+@media (max-width: 768px) {
+  .patternskompakt {
+    padding: 8px 5px;
+  }
+}
+
+
+
+
+/*
 Book cover and text, for index and literature pages
 */
 
