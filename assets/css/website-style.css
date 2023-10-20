@@ -3,11 +3,11 @@ Colors
 */
 
 .orange {
-    background-color: #D25C00;
+    background-color: #EE6E00;
 }
 
 .orange-text {
-    color: #D25C00;
+    color: #EE6E00;
 }
 
 .blue {
@@ -37,10 +37,10 @@ a.active2:hover {
 }
 
 hr.orange-hr {
-    border: none; /* Entferne die Standardlinie */
-    height: 1px; /* Höhe der Linie */
+    border: none;
+    height: 1px;
     background-image: linear-gradient(to right, #CCCCCC 0%, #FF8C40 50%, #CCCCCC 100%);
-    background-size: 100% 1px; /* Breite und Höhe des Farbverlaufs */
+    background-size: 100% 1px;
 }
 
 .italic {
