@@ -8,20 +8,18 @@ author_profile: false
 ---
 
 #### Anbieter und Verantwortliche Person
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 
 
 #### Kontakt
-Telefon: +49 160 93268817
-<br>
-e-Mail: per_at_starke-team.de
-<br>
+Telefon: +49 177 728 2570<br>
+e-Mail: gs_at_gernotstarke.de<br>
 
 
 ## Datenschutzerklärung
 
 #### Geltungsbereich
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Per Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Dr. Gernot Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
 <br />
 Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutzgrundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
 <br />
@@ -63,6 +61,8 @@ erlaubt die Darstellung diverser Icon-Symbole auf unseren Seiten.
 FontAwesome nutzt anonyme Zugriffsdaten, die in deren
 [privacy policy](https://fontawesome.com/privacy) spezifiziert sind.
 <br/>
+
+Auf dieser Website wird FontAwesome allerdings lokal gehostet und somit werden keine Zugriffsdaten von FontAwesome verwendet oder an FontAwesome weitergegeben 
 
 #### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />
