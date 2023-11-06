@@ -7,7 +7,7 @@ sidebar:
 
 Singleton stellt sicher, dass nur genau eine Instanz einer Klasse erzeugt wird.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/singleton/README.md), [GOF](/literature#gof), [PK](/literature#pk)
+> siehe: [GitHub - ReadMe](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/singleton/README.md), [GOF](/literature#gof), [PK](/literature#pk)
 
 #### Sequenzdiagramm
 
@@ -35,4 +35,4 @@ Das Foto zeigt anschaulich die wichtigsten Eigenschaften von Singleton:
 #### Ressourcen
 
 > * [Quellcode (Projekt zum Download)](/patterns#codebeispiele)
-> * [JavaDoc (API mit Quelltext online verlinkt)]()
+> * [GitHub - Sourcecode](https://github.com/KarlEilebrecht/patterns-kompakt-code/tree/main/src/main/java/de/calamanari/pk/singleton)

@@ -8,7 +8,7 @@ sidebar:
 
 Es wird eine Schnittstelle für die Erzeugung von Objekten definiert. Die Entscheidung, welche konkrete Klasse zu instanziieren, zu konfigurieren und schließlich zurückzugeben ist, wird konkreten (Unter-)Klassen überlassen, die diese Schnittstelle implementieren.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/factorymethod/README.md), [GOF](/literature#gof), [STEMA](/literature#stema), [PK](/literature#pk)
+> siehe: [GitHub - ReadMe](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/factorymethod/README.md), [GOF](/literature#gof), [STEMA](/literature#stema), [PK](/literature#pk)
 
 #### Klassendiagramm
 
@@ -28,4 +28,4 @@ Um das Zusammenspiel im Detail beobachten zu können, setzen Sie den log-level a
 #### Ressourcen
 
 > * [Quellcode (Projekt zum Download)](/patterns#codebeispiele)
-> * [JavaDoc (API mit Quelltext online verlinkt)]()
+> * [GitHub - Sourcecode](https://github.com/KarlEilebrecht/patterns-kompakt-code/tree/main/src/main/java/de/calamanari/pk/factorymethod)
