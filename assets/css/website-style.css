@@ -221,5 +221,17 @@ Pattern-Wette Box
 
 
 
+/*
+Hover effect for image map links
+*/
+
+svg a:hover rect {
+  fill: #244373;
+  opacity: 0.3;
+  transition: fill 0.3s ease, opacity 0.3s ease;
+}
+
+
+
 
 
