@@ -11,7 +11,7 @@ Unabhängige Teilaufgaben innerhalb einer Serviceimplementierung werden in separ
 
 #### Sequenzdiagramm
 
-![](/images/patterns/masterslave/master_slave_dn.png)
+![](/images/patterns/leaderfollower/leader_follower_dn.png)
 
 #### Beispiel
 
@@ -20,11 +20,11 @@ Die Aufgabe ist sehr einfach, es muss lediglich geprüft werden, ob ein Text von
 Wenn man jedoch von UTF-8-kodierten Palindromen mit mehreren 100 Millionen Zeichen ausgeht, wird es interessant.
 Bei heutigen Rechnern kann man natürlich immer noch die ganze Datei in den Speicher pumpen und naiv vergleichen. Mit *Leader-Follower* geht es aber effizienter.
 
-![](/images/patterns/masterslave/master_slave_cx.png)
+![](/images/patterns/leaderfollower/leader_follower_cx.png)
 
 Der *Leader* teilt die Aufgabe in Häppchen, deren Abarbeitung *Followers* obliegt.
 
-![](/images/patterns/masterslave/master_slave_dx.png)
+![](/images/patterns/leaderfollower/leader_follower_dx.png)
 
 Aus den Teilergebnissen der *Followers* leitet der *Leader* das Gesamtergebnis ab.
 
