@@ -1,6 +1,6 @@
 ---
-title: Master-Slave
-permalink: /patterns/verteilung/masterslave
+title: Leader-Follower
+permalink: /patterns/verteilung/leaderfollower
 sidebar:
     nav: verteilung
 ---
@@ -18,17 +18,17 @@ Unabhängige Teilaufgaben innerhalb einer Serviceimplementierung werden in separ
 Im Beispiel wollen wir prüfen, ob ein String ein Palindrom ist, also z.B. aBBa.
 Die Aufgabe ist sehr einfach, es muss lediglich geprüft werden, ob ein Text von links nach rechts bzw. von rechts nach links gelesen identisch aussieht.
 Wenn man jedoch von UTF-8-kodierten Palindromen mit mehreren 100 Millionen Zeichen ausgeht, wird es interessant.
-Bei heutigen Rechnern kann man natürlich immer noch die ganze Datei in den Speicher pumpen und naiv vergleichen. Mit *Master-Slave* geht es aber effizienter.
+Bei heutigen Rechnern kann man natürlich immer noch die ganze Datei in den Speicher pumpen und naiv vergleichen. Mit *Leader-Follower* geht es aber effizienter.
 
 ![](/images/patterns/masterslave/master_slave_cx.png)
 
-Der *Master* teilt die Aufgabe in Häppchen, deren Abarbeitung *Slaves* obliegt.
+Der *Leader* teilt die Aufgabe in Häppchen, deren Abarbeitung *Followers* obliegt.
 
 ![](/images/patterns/masterslave/master_slave_dx.png)
 
-Aus den Teilergebnissen der *Slaves* leitet der *Master* das Gesamtergebnis ab.
+Aus den Teilergebnissen der *Followers* leitet der *Leader* das Gesamtergebnis ab.
 
-Übrigens implementiert der *IndexedTextFileAccessor*, den der *Master* intern zur Vorbereitung nutzt, selbst ebenfalls das *Master-Slave*-Pattern.
+Übrigens implementiert der *IndexedTextFileAccessor*, den der *Leader* intern zur Vorbereitung nutzt, selbst ebenfalls das *Leader-Follower*-Pattern.
 
 Um das Zusammenspiel im Detail beobachten zu können, setzen Sie den log-level auf DEBUG in der logback.xml und führen den zugehörigen TestCase aus.
 

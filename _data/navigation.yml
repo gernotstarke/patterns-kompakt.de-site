@@ -158,8 +158,8 @@ verteilung:
         url: /patterns/verteilung/transferobjectassembler
       - title: "Active Object"
         url: /patterns/verteilung/activeobject
-      - title: "Master-Slave"
-        url: /patterns/verteilung/masterslave
+      - title: "Leader-Follower"
+        url: /patterns/verteilung/leaderfollower
   - title: "Integration"
     url: /patterns/integration
   - title: "Persistenz"
