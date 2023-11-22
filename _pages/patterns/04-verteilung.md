@@ -33,5 +33,5 @@ Active Object entkoppelt einen Methodenaufruf von der Methodenausführung. Clien
 ### [Leader-Follower](/patterns/verteilung/leaderfollower)
 Unabhängige Teilaufgaben innerhalb einer Serviceimplementierung werden in separaten Threads ausgeführt (divide and conquer), um nicht-funktionale Anforderungen (i. d. R. Performance) besser zu erfüllen.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/masterslave/README.md), [POSA4](/literature#posa4), [PK](/literature#pk)
+> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/leaderfollower/README.md), [POSA4](/literature#posa4), [PK](/literature#pk)
 
