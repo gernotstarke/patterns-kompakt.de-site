@@ -64,7 +64,7 @@ figure.onecol {
   text-align: center;
 }
 
-img.max350 {
+.max350 {
     max-width: 350px;
 }
 
@@ -230,8 +230,6 @@ svg a:hover rect{
   opacity: 0.3;
   transition: fill 0.3s ease, opacity 0.3s ease;
 }
-
-
 
 
 
