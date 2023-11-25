@@ -7,7 +7,7 @@ sidebar:
 
 MUHAI (Mostly Unique Hashed Attributes Identifier) erzeugt einen nahezu eindeutigen Schlüssel durch das Hashen eines oder mehrerer Datensatzattribute.
 
-> siehe: [GitHub](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/muhai/README.md), [PK](/literature#pk)
+> siehe: [GitHub - ReadMe](https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/test/java/de/calamanari/pk/muhai/README.md), [PK](/literature#pk)
 
 ### Beispiel
 
@@ -21,7 +21,14 @@ Würde man diesen Key als Composite-PK definieren, gäbe es einerseits erheblich
 
 Um das Problem zu lösen, wird zunächst ein kryptographischer Hashwert (hier SHA1) über die Attributwerte gebildet, die den Datensatz identifizieren. Ein Teil des Hashes (z.B. die ersten 64 bits) wird in einen INT64-Bit-Integer-Wert konvertiert.
 
-![](/images/patterns/muhai/muhai_cx.png)
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 647 424">
+<image width="647" height="424" xlink:href="/images/patterns/muhai/muhai_cx.png"></image> <a xlink:href="https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/main/java/de/calamanari/pk/muhai/LongPrefix.java">
+<rect x="24" y="47" fill="#fff" opacity="0" width="236" height="134"></rect>
+</a><a xlink:href="https://github.com/KarlEilebrecht/patterns-kompakt-code/blob/main/src/main/java/de/calamanari/pk/muhai/MuhaiGenerator.java">
+<rect x="28" y="213" fill="#fff" opacity="0" width="295" height="97"></rect>
+</a>
+</svg>
+
 
 ![](/images/patterns/muhai/muhai_ex.png)
 
@@ -36,4 +43,4 @@ Basierend auf dem gleichen Prinzip der Ausnutzung besonderer Eigenschaften krypt
 #### Ressourcen
 
 > * [Quellcode (Projekt zum Download)](/patterns#codebeispiele)
-> * [JavaDoc (API mit Quelltext online verlinkt)]()
+> * [GitHub - Sourcecode](https://github.com/KarlEilebrecht/patterns-kompakt-code/tree/main/src/main/java/de/calamanari/pk/muhai)
