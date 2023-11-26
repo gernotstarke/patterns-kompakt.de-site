@@ -23,10 +23,9 @@ excerpt: "**Entwurfsmuster für effektive Software-Entwicklung**"
   <img src="/images/pk_cover.webp" alt="Patterns Kompakt Buchcover" class="book-cover">
 </div>
 
+Die **sechste aktualisierte und erweiterte Auflage** erklärt darüber hinaus weitere Musterkategorien.
 
-**Patterns kompakt** richtet sich an Praktiker:Innen: Software-Entwickler:Innen, -Architekt:Innen, -Designer:innen und alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.
-
-Die **sechste aktualisierte und erweiterte Auflage** enthält ein Kapitel zum Thema Software-Inbetriebnahme.   
+**Patterns kompakt** richtet sich an Praktiker:Innen, Software-Entwickler:Innen, -Architekt:Innen, -Designer:innen und alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.   
 
 <span class="orange-text bold"> Wir wünschen Ihnen viel Freude mit dem Buch und dem Code!</span>	
 
