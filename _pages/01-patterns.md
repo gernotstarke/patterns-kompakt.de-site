@@ -35,17 +35,18 @@ Neben der Möglichkeit, sich die API der Klassen mit verlinktem Source-Code onli
 * [Download pk-examples_j6.zip](/downloads/pk-examples_j6.zip) (2012, JDK 6)
 * [Download pk-examples_j7.zip](/downloads/pk-examples_j7.zip) (2014, JDK 7)
 * [Download pk-examples_j11.zip](/downloads/pk-examples_j11.zip) (2019, JDK 11) 
+* [Download pk-examples_j15.zip](/downloads/pk-examples_j15.zip) (2021, JDK 15)
 
 
-Es hat sich zum Standard entwickelt, viele Basisfunktionaliäten mit Bibliotheken abzudecken, die als externe Dependencies deklariert und aus Repositories geladen werden.
+Es hat sich zum Standard entwickelt, viele Basisfunktionalitäten mit Bibliotheken abzudecken, die als externe Dependencies deklariert und aus Repositories geladen werden.
 Bis einschließlich Java 7 haben wir noch versucht, ohne solche zusätzlichen Abhängigkeiten auszukommen, weil das für Neulinge die Hürden erhöht, Beispiele einfach mal auszuprobieren.
 
 Mittlerweile wird ein solcher Insel-Entwicklungsansatz aber immer schwieriger (verschlanktes JDK) und ist zunehmend fragwürdig, weil er einfach *Best Practices* widerspricht.
-Daher sind die Code-Beispiele jetzt als Maven-Projekt umgesetzt und setzen neben dem JDK 15 eine funktionierende Maven-Installation voraus.
+Daher sind die Code-Beispiele jetzt als Maven-Projekt umgesetzt und setzen neben dem JDK 21 eine funktionierende Maven-Installation voraus.
 
 Neben dem Archiv mit den Sourcen benötigen Sie:
-* Java Platform (JDK) 15 (z.B. OpenJDK)
-* Apache Maven (3.6.3 oder neuer) 
+* Java Platform (JDK) 21 (z.B. OpenJDK)
+* Apache Maven (3.8 oder neuer) 
 
 Zu empfehlen ist eine IDE wie [Eclipse](https://www.eclipse.org/).   
 Wir haben außerdem [SonarLint](https://www.sonarsource.com/products/sonarlint/) im Einsatz.
