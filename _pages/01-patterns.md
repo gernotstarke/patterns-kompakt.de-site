@@ -36,6 +36,7 @@ Neben der Möglichkeit, sich die API der Klassen mit verlinktem Source-Code onli
 * [Download pk-examples_j7.zip](/downloads/pk-examples_j7.zip) (2014, JDK 7)
 * [Download pk-examples_j11.zip](/downloads/pk-examples_j11.zip) (2019, JDK 11) 
 * [Download pk-examples_j15.zip](/downloads/pk-examples_j15.zip) (2021, JDK 15)
+* [Download pk-examples_j21.zip](/downloads/pk-examples_j21.zip) (2024, JDK21)
 
 
 Es hat sich zum Standard entwickelt, viele Basisfunktionalitäten mit Bibliotheken abzudecken, die als externe Dependencies deklariert und aus Repositories geladen werden.
