@@ -71,4 +71,4 @@ Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über di
 Danke an Hr Rechtsanwalt Thomas Schwenke:<br>
 <a href="http://rechtsanwalt-schwenke.de/smmr-buch/datenschutz-muster-generator-fuer-webseiten-blogs-und-social-media/"><strong>Datenschutz-Muster von Rechtsanwalt Thomas Schwenke - I LAW it</strong></a>
 
-Erstellt von [PSWD](https://perstarke-webdev.de/) unter dem Dach von [Kröner & Starke Web Development](https://kroener-starke.ch/).
+Erstellt von [PSWD](https://perstarke-webdev.de/) unter dem Dach von [Kröner & Starke](https://kroener-starke.ch/).
